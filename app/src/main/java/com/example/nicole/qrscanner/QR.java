@@ -55,7 +55,7 @@ public class QR extends AppCompatActivity implements ZXingScannerView.ResultHand
         mScannerView.startCamera();         // Start camera
 
     }
-
+//TEST
     @Override
     public void onPause() {
         super.onPause();
